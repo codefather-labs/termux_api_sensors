@@ -1,0 +1,12 @@
+{
+	"name": "sensor_api",
+	"version": "1.0",
+	"homepage": "none",
+	"maintainer": "David Kramer",
+	"description": "An API for listening to sensors on device",
+	"arch": "all",
+	"depends": [],
+	"files": {
+		"scripts/termux-sensor": "bin/termux-sensor"
+	}
+}
